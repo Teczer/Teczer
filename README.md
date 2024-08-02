@@ -17,22 +17,19 @@
 
 ##### Languages I have used
 
-![JavaScript](https://img.shields.io/badge/-javascript-000000?style=flat&logo=JavaScript)
-![Typescript](https://img.shields.io/badge/-typescript-000000?style=flat&logo=Typescript)
-![Swift](https://img.shields.io/badge/-swift-000000?style=flat&logo=Swift)
-![html5](https://img.shields.io/badge/-html5-000000?style=flat&logo=html5)
-![css3](https://img.shields.io/badge/-css3-000000?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript)
+![Typescript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=Typescript)
+![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)
 
 #### Frameworks I have used
 
+![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs)
 ![React](https://img.shields.io/badge/-React.js-000000?style=flat&logo=React)
 ![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js)
 ![ReactNative](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=React)
 ![Expo](https://img.shields.io/badge/-Expo-000000?style=flat&logo=expo)
-![Nodejs](https://img.shields.io/badge/-node.js-000000?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs)
-![Mongo](https://img.shields.io/badge/-mongo-000000?style=flat&logo=mongodb)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=flat&logo=swift)
+![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teczer&hide_langs_below=1&layout=compact&theme=dark">
