@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/mehdi-hattou/">
   <img align="left" alt="Mehdi Linkdein" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
-<img align="right" alt="Coding" width="280px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW56NTNtOGZjOWMwcGtjMWRzcXU0NmFqdHI2Y29iZnIzMmN1bGVqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yfl7CS7vQqnebA69aH/giphy.webp">
+<img align="right" alt="Coding" width="200px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW56NTNtOGZjOWMwcGtjMWRzcXU0NmFqdHI2Y29iZnIzMmN1bGVqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yfl7CS7vQqnebA69aH/giphy.webp">
 
 <br/>
 <br/>
@@ -30,6 +30,8 @@
 ![Expo](https://img.shields.io/badge/-Expo-000000?style=flat&logo=expo)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=flat&logo=swift)
 ![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
+
+<br/>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teczer&hide_langs_below=1&layout=compact&theme=dark">
