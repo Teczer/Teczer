@@ -15,7 +15,7 @@
 - 💼 I’m currently working for MAIIA
 - 🌱 I’m currently learning React Native, Expo, MMKV
 
-##### Languages I have used
+#### Languages I have used
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript)
 ![Typescript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=Typescript)
@@ -30,6 +30,27 @@
 ![Expo](https://img.shields.io/badge/-Expo-000000?style=flat&logo=expo)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=flat&logo=swift)
 ![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
+<br/>
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss)
+![Socket.io](https://img.shields.io/badge/-Socket.io-000000?style=flat&logo=socket.io)
+![Strapi](https://img.shields.io/badge/-Strapi-000000?style=flat&logo=strapi)
+
+#### Databases and Cloud i have used
+
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon)
+![OVH](https://img.shields.io/badge/-OVH-000000?style=flat&logo=ovh)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+
+#### Tools i have used
+
+![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+![Nginx Proxy Manager](https://img.shields.io/badge/-Nginx%20Proxy%20Manager-000000?style=flat&logo=nginx)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+![Portainer](https://img.shields.io/badge/-Portainer-000000?style=flat&logo=portainer)
 
 <br/>
 
