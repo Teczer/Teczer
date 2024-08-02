@@ -28,8 +28,8 @@
 ![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js)
 ![ReactNative](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=React)
 ![Expo](https://img.shields.io/badge/-Expo-000000?style=flat&logo=expo)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=flat&logo=swift)
 <br/>
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=flat&logo=swift)
 ![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-000000?style=flat&logo=socket.io)
@@ -46,11 +46,11 @@
 #### Tools i have used
 
 ![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![Nginx Proxy Manager](https://img.shields.io/badge/-Nginx%20Proxy%20Manager-000000?style=flat&logo=nginx)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![Portainer](https://img.shields.io/badge/-Portainer-000000?style=flat&logo=portainer)
 <br/>
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 
 <p align="center">
