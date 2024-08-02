@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/mehdi-hattou/">
   <img align="left" alt="Mehdi Linkdein" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
-<img align="right" alt="Coding" width="280" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW56NTNtOGZjOWMwcGtjMWRzcXU0NmFqdHI2Y29iZnIzMmN1bGVqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yfl7CS7vQqnebA69aH/giphy.webp">
+<img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW56NTNtOGZjOWMwcGtjMWRzcXU0NmFqdHI2Y29iZnIzMmN1bGVqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yfl7CS7vQqnebA69aH/giphy.webp">
 
 <br/>
 <br/>
