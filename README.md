@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-- 💼 I’m currently working for MAIIA
+- 💼 I’m currently working for MAIIA (Cegedim Santé)
 - 🌱 I’m currently learning React Native, Expo, MMKV
 
 #### Languages I have used
