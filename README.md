@@ -2,7 +2,7 @@
 
 <h1>
   <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px" height="30px">
-  Hello!! I'm Mehdi HATTOU 🎯️🚀️
+  Hello! I'm Mehdi HATTOU 🎯️🚀️
 </h1>
 
 <a href="https://git.io/typing-svg">
