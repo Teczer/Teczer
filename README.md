@@ -17,6 +17,6 @@
 
 ## Portfolio
 
-"Transcend JavaScript and tap directly into iOS and Android’s native core."
+"Web Developer & Mobile Developer. Sharing a strong affinity with React, based in Paris."
 
 ❤️ [My Porfolio](https://mehdihattou.com) 
